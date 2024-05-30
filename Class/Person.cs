@@ -1,11 +1,16 @@
-﻿//using Class;
+﻿#region Task2
+// "Person" sinfi yaradın.
+// Ad, soyad və yaş fieldləri ilə konstruktor əlavə edin.
+// Sonra bu sinifdən bir neçə obyekt yaradıb hər birini ekrana çıxarın.
+
+
 //using System;
 //using System.Collections.Generic;
 //using System.Linq;
 //using System.Text;
 //using System.Threading.Tasks;
 
-//namespace Class
+//namespace CLASS.Class
 //{
 //    public class Person
 
@@ -19,16 +24,10 @@
 //            this.surname = surname;
 //            this.age = age;
 //            Console.WriteLine($"name: {this.name},surname : {surname}, age: {age}");
-         
+
 
 //        }
-//        Person name1 = new Person();
-//        Person surname1 = new Person();
-//        Person age1 = new Person();
-
 //    }
 //}
 
-     
-    
-
+#endregion

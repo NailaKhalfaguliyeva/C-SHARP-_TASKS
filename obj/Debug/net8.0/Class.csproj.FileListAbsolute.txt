@@ -12,3 +12,4 @@ C:\Users\ASUS\Downloads\c#\Class\Class\obj\Debug\net8.0\refint\Class.dll
 C:\Users\ASUS\Downloads\c#\Class\Class\obj\Debug\net8.0\Class.pdb
 C:\Users\ASUS\Downloads\c#\Class\Class\obj\Debug\net8.0\Class.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\c#\Class\Class\obj\Debug\net8.0\ref\Class.dll
+C:\Users\ASUS\Downloads\c#\Class\Class\obj\Debug\net8.0\Class.sourcelink.json

@@ -4,10 +4,9 @@
 //using System.Text;
 //using System.Threading.Tasks;
 
-//namespace Class
+//namespace CLASS.Class
 //{
 //    internal class User
 //    {
-
 //    }
 //}

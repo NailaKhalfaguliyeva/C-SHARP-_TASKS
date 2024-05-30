@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Downloads\\c#\\Class\\Class\\Class.csproj": {}
+    "C:\\Users\\ASUS\\Downloads\\c#\\Class\\CLASS\\CLASS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Downloads\\c#\\Class\\Class\\Class.csproj": {
+    "C:\\Users\\ASUS\\Downloads\\c#\\Class\\CLASS\\CLASS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\c#\\Class\\Class\\Class.csproj",
-        "projectName": "Class",
-        "projectPath": "C:\\Users\\ASUS\\Downloads\\c#\\Class\\Class\\Class.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\c#\\Class\\CLASS\\CLASS.csproj",
+        "projectName": "CLASS",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\c#\\Class\\CLASS\\CLASS.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Downloads\\c#\\Class\\Class\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\c#\\CLASS\\CLASS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
